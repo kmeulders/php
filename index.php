@@ -13,8 +13,7 @@ and open the template in the editor.
         <?php
         print("test");
         print("test");
-        print("test");
-        print("test");
+
         ?>
     </body>
 </html>
